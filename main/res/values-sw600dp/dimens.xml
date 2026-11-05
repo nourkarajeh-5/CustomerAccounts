@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- (Text Sizes) -->
+    <dimen name="text_size_date">19sp</dimen>
+    <dimen name="text_size_search">19sp</dimen>
+    <dimen name="text_size_empty_state">20sp</dimen>
+    <dimen name="text_size_default">22sp</dimen>
+    <dimen name="text_size_count">23sp</dimen>
+    <dimen name="text_size_title">26sp</dimen>
+    <dimen name="text_size_name_large">29sp</dimen>
+    <dimen name="text_size_total_medium">32sp</dimen>
+    <dimen name="text_size_total_large">38sp</dimen>
+
+    <!-- (Margins & Paddings) -->
+    <dimen name="margin_tiny">3dp</dimen>
+    <dimen name="margin_small">7dp</dimen>
+    <dimen name="margin_title_top">10dp</dimen>
+    <dimen name="margin_default">14dp</dimen>
+    <dimen name="margin_medium">20dp</dimen>
+    <dimen name="margin_large">22dp</dimen>
+    <dimen name="margin_back_icon">24dp</dimen>
+    <dimen name="margin_button_split">25dp</dimen>
+    <dimen name="margin_layout_horizontal">28dp</dimen>
+    <dimen name="margin_search_horizontal">30dp</dimen>
+    <dimen name="margin_message_horizontal">35dp</dimen>
+    <dimen name="margin_button_top">42dp</dimen>
+
+    <!-- أبعاد مخصصة padding -->
+    <dimen name="count_shape_margin_top">-45dp</dimen>
+    <dimen name="count_shape_padding_bottom">40dp</dimen>
+    <dimen name="count_shape_padding_right">35dp</dimen>
+    <dimen name="edit_text_padding">22dp</dimen>
+
+    <!-- أبعاد الـ CardView (Elevations & Corners & Heights) -->
+    <dimen name="card_elevation_default">7dp</dimen>
+    <dimen name="card_elevation_medium">14dp</dimen>
+    <dimen name="card_elevation_large">32dp</dimen>
+    <dimen name="card_corner_radius_small">14dp</dimen>
+    <dimen name="card_corner_radius_default">35dp</dimen>
+    <dimen name="card_purchase_height">110dp</dimen>
+    <dimen name="card_item_height">140dp</dimen>
+    <dimen name="card_customer_height">150dp</dimen>
+
+    <!-- الارتفاعات القياسية لعناصر الإدخال والأزرار -->
+    <dimen name="btn_height_small">48dp</dimen>
+    <dimen name="btn_height_default">55dp</dimen>
+    <dimen name="edit_text_height">55dp</dimen>
+    <dimen name="edit_text_height_large">68dp</dimen>
+    <dimen name="search_bar_height">60dp</dimen>
+
+    <!-- العروض الثابتة لعناصر معينة -->
+    <dimen name="back_icon_size">40dp</dimen>
+    <dimen name="status_badge_width">125dp</dimen>
+    <dimen name="status_badge_height">42dp</dimen>
+    <dimen name="btn_width_small">185dp</dimen>
+    <dimen name="btn_width_dialog">192dp</dimen>
+    <dimen name="btn_width_medium">210dp</dimen>
+    <dimen name="txt_count_width">190dp</dimen>
+    <dimen name="txt_count_height">155dp</dimen>
+
+    <!-- الزر العائم للإضافة FAB -->
+    <dimen name="fab_size">75dp</dimen>
+    <dimen name="fab_corner_radius">40dp</dimen>
+    <dimen name="fab_elevation">20dp</dimen>
+    <dimen name="fab_padding">22dp</dimen>
+</resources>
